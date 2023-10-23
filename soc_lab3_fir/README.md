@@ -19,4 +19,4 @@
   - Stream out Yn, the output rate depends on FIR processing speed
 ## Waveform
 ### 1. Configuration Write
-     ![/soc_lab3_fir/coefficient program.png]
+     ![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/coefficient%20program.png)
