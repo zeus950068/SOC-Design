@@ -20,8 +20,10 @@
 ## Waveform
 ## 1. Configuration Write
 Write Transaction
+
 ![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/coefficient%20program.png)
 Read Transaction
+
 ![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/Coefficient%20Read%20back.png)
 
 ## 2.Configuration Register Address Map
