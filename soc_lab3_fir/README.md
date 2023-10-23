@@ -17,3 +17,6 @@
   - ap_start to initiate FIR engine (ap_start valid for one clock cycle)
   - Stream-in Xn. The rate is depending on the FIR processing speed. Use axi-stream valid/ready for flow control
   - Stream out Yn, the output rate depends on FIR processing speed
+## Waveform
+1. Configuration Write
+   - 
