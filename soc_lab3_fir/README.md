@@ -22,19 +22,27 @@
 Write Transaction
 
 ![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/coefficient%20program.png)
+
 Read Transaction
 
 ![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/Coefficient%20Read%20back.png)
 
 ## 2.Configuration Register Address Map
 ap_start
+
 ![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/ap_start.png)
+
 ap_done
+
 ![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/ap_done.png)
+
 
 ## 3.Streaming Data
 Xn stream-in
+
 ![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/Xn%20stream-in.png)
+
 Yn stream-out
+
 ![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/Yn%20streaom-out.png)
 
