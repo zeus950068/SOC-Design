@@ -18,7 +18,7 @@
   - Stream-in Xn. The rate is depending on the FIR processing speed. Use axi-stream valid/ready for flow control
   - Stream out Yn, the output rate depends on FIR processing speed
 ## Waveform
-##   - 1. Configuration Write
+  - 1. Configuration Write
 Write Transaction
 
 ![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/coefficient%20program.png)
