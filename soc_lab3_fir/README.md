@@ -1,2 +1,2 @@
-#FIR - Verilog implementation
-#Specification
+# FIR - Verilog implementation
+# Specification
