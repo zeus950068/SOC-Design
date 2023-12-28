@@ -1,0 +1,8 @@
+# design sources
+./tb/fir_tb.v
+#./rtl/*.v
+./rtl/fir.v
+#./rtl/fir_ver10--rvalid_only_one_cycle.v
+./rtl/multiplier_adder.v
+../bram/bram11.v
+../bram/bram12.v
